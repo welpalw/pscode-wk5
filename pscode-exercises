@@ -1,0 +1,54 @@
+  // Exercise 1: Calculate the Sum of Two Numbers
+
+a + b = c
+
+num1 + num2 = sum
+print sum
+
+ask for 2 numbers 
+add the 2 number together 
+print on the screen the sum of those 2 numbers
+
+
+
+(ask for number 1
+ask for number 2
+add number one and number two
+print the answer on the screen)
+
+// Exercise 2: Check if a Number is Even or Odd
+
+(ask for a number equal to or greater than 3
+divide that number by the number 2
+if the answer is a whole number, print the word even on the screen
+if the answer is not a whole number, print the word odd on the screen)
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+(ask for number 1
+ask for number 2
+ask for number 3
+ask for number 4
+ask for number 5
+add number 1 and number 2 and number 3 and number 4 and number 5
+divide that answer by 5
+print the answer on the screen with "the average of your numbers is X"
+if number 1 is greater than number 2, number 3, number 4, or number 5 then "your first number is the largest of the five you entered"
+if number 2 is greater than number 1, number 3, number 4, or number 5 then "your second number is the largest of the five you entered"
+if number 3 is greater than number 1, number 2, number 4, or number 5 then "your third number is the largest of the five you entered"
+if number 4 is greater than number 1, number 2, number 3, or number 5 then "your fourth number is the largest of the five you entered"
+if number 5 is greater than number 1, number 2, number 3, or number 4 then "your fifth number is the largest of the five you entered"
+if number 1 is smaller than number 2, number 3, number 4, or number 5 then "your first number is the smallest of the five you entered"
+if number 2 is smaller than number 1, number 3, number 4, or number 5 then "your second number is the smallest of the the five you entered"
+if number 3 is smaller than number 1, number 2, number 4, or number 5 then "your third number is the smallest of the five you entered"
+if number 4 is smaller than number 1, number 2, number 3, or number 5 then "your fourth number is the smallest of the five you entered"
+if number 5 is smaller than number 1, number 2, number 3, or number 4 then "your fifth number is the smallest of the five you entered" )
+
+-- END -- 
+
